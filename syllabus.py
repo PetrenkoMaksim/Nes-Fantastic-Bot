@@ -1,0 +1,36 @@
+syllabus_questions = {
+    "Weekly Reading Journals" : "Each week from week 1 to week 11, you will submit a reading journal on Canvas. Each "
+                                "submission should include a bibliographic citation in MLA format for each primary or "
+                                "secondary source we read as a class that week and a 200-300 word response to the texts. Your "
+                                "responses might note patterns you’re seeing from one week to the next, connections among "
+                                "texts, connections between course texts and the world outside the classroom, personal "
+                                "reflections, or criticisms of the ideas in the texts. These reading journals will be used in your "
+                                "planning for the Final Project. Weekly Reading Journals may be submitted any time during the "
+                                "week. If you’re reading ahead, you can write them up and submit them as you read.  "
+                                "Each week from week 12 to week 16, you will submit a project journal on Canvas. Each "
+                                "submission should include one paragraph that talks about how you spent your project work "
+                                "time that week and one paragraph reflecting on how your project is going, totaling 200-300 "
+                                "words. In order to earn points, these journals MUST be submitted no later than 11:59 PM on Saturday "
+                                "of that week. Late Weekly Journals will not be accepted. The two lowest scores in this category "
+                                "will be dropped. No Journal needs to be submitted during Spring Break.",
+    "Make-up policy" : "If a student receives a failing grade in the course, he/she must complete any blocking "
+                       "assignments that are failing or incomplete. These assignments must be completed during the "
+                       "designated make-up period and will be assessed by the course instructor.  "
+                       "Only the following assignments are eligible for make-up: Final Project, Book Presentation "
+                       "If the course instructor determines that the student has still not passed the course, the student "
+                       "will complete an additional make-up assignment that will be assessed by a three-member "
+                       "panel. This assignment will be graded on a pass/fail basis to determine whether the student has "
+                       "demonstrated all the skills they should have acquired during the course (see Course Description).",
+    "Deadline policy" : "Assignments will be considered late if they are submitted after the deadline on the day they "
+                        "are due. Late work will result in the final grade for that assignment being penalized one "
+                        "letter grade for every class day they are late, unless noted otherwise below. If you become "
+                        "ill or the victim of an emergency situation, contact me as soon as possible to make "
+                        "alternate arrangements. Late assignments may not be accepted more than two weeks after "
+                        "the due date. Weekly journals may not be submitted late.",
+    "Course description" : "This course will explore world literature from the early 20th century to the present with a "
+                           "focus on the fantastic as a response to the upheavals and instability of modernity. We use the "
+                           "fantastic as a space for exploring our lived reality. It helps us to figure out who we are, but our "
+                           "fantastic texts also reveal what our society values and what we fear.  Texts will include short "
+                           "stories, poetry, novels, and films.",
+    "Syllabus" : "Here is the link: https://canvas.instructure.com/courses/4056831/files?preview=164538610"
+}
