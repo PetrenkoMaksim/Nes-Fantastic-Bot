@@ -4,7 +4,7 @@ import os
 from bot_commands import bot_commands
 from syllabus import syllabus_questions
 from syllabus_pictures import syllabus_pictures
-API_KEY = "5163766250:AAFLX2d1oB2ddyRx_ihb5TrGoO_vnVuFMBY"
+API_KEY = ""
 bot = telebot.TeleBot(API_KEY)
 
 commands_list = ["start", "instructions"]
